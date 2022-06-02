@@ -34,11 +34,11 @@ los elemntos de esta clase:
 - que es detro de una etiqueta puedo crear muchas etiquetas.
 
 ¿que es una lista y tablas?
-- lista: ordena, lo que tenemos que hacer entre las etiquetas."<li>"
-- lista con nueros: enumera la lista."<ol>"
+- lista: ordena, lo que tenemos que hacer entre las etiquetas.
+- lista con nueros: enumera la lista.
 --"\lista.html"--
 
-- tablas: cumple el comcepto de un orden estructurado de columnas y filas."<table><tr><th><td>"
+- tablas: cumple el comcepto de un orden estructurado de columnas y filas.
 
 --"\table.html"--
 
