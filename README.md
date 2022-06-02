@@ -16,6 +16,36 @@ los elemntos de esta clase:
 - listas y tablas
 - imagenes y videos
 
-¿que es en encabezado?
+¿QUE ES UN ENCABEZADO?
 - un encabezado es una etiqueta que se utilizan para titulos, textos y subtitulos de la pagina.
----"C:\proyectos\fundamentos-de-la-web-escarlet-orellana\encabezado.html"---
+- parafos= es donde pudes colocar informacion.
+---"\encabezado.html"---
+
+¿QUE ES UN VINCULO?
+-son etiquetas de anclage, que se utiliza para navegar en otra pagina.
+--"\VINCULOS.HTML"--
+
+¿QUE ES EL EMPHASIS Y STRONG?
+- EL STRONG: resalta la letra en negrita
+- EMPHASIS: la hace emphasis y la hace cusiva 
+--"EMPHASIS Y STRONG.HTML"--
+
+¿QUE ES LA SINTAXIS?
+- que es detro de una etiqueta puedo crear muchas etiquetas.
+
+¿que es una lista y tablas?
+- lista: ordena, lo que tenemos que hacer entre las etiquetas."<li>"
+- lista con nueros: enumera la lista."<ol>"
+--"\lista.html"--
+
+- tablas: cumple el comcepto de un orden estructurado de columnas y filas."<table><tr><th><td>"
+
+--"\table.html"--
+
+¿QUE ES UNA IMAGEN?
+
+--"\imagen.html"--
+
+¿QUE ES UN VIDEO?
+
+--
