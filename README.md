@@ -21,6 +21,8 @@ los elemntos de esta clase:
 - parafos= es donde pudes colocar informacion.
 ---"\encabezado.html"---
 
+<a href="elementos-de-texto\encabezado.html">encabezados</a>
+
 ¿QUE ES UN VINCULO?
 -son etiquetas de anclage, que se utiliza para navegar en otra pagina.
 --"\VINCULOS.HTML"--
