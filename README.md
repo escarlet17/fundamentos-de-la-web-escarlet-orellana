@@ -15,3 +15,7 @@ los elemntos de esta clase:
 - elementos de texto
 - listas y tablas
 - imagenes y videos
+
+¿que es en encabezado?
+- un encabezado es una etiqueta que se utilizan para titulos, textos y subtitulos de la pagina.
+---"C:\proyectos\fundamentos-de-la-web-escarlet-orellana\encabezado.html"---
