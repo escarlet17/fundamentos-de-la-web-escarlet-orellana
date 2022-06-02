@@ -9,3 +9,9 @@ las respuestas son las respueatas a una solicitud a un cliente osea a una accion
 
 
 Este es un cambio.
+
+clase 02/06/22
+los elemntos de esta clase:
+- elementos de texto
+- listas y tablas
+- imagenes y videos
