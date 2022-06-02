@@ -54,7 +54,7 @@ los elemntos de esta clase:
 
 QUIZ "ELEMENTAL"
 
-<!--1. ¿Cuál es el lenguaje de marcado principal para crear páginas web y otra información que se puede mostrar en un navegador web?
+1. ¿Cuál es el lenguaje de marcado principal para crear páginas web y otra información que se puede mostrar en un navegador web?
 
 Icon
 HTML
@@ -73,4 +73,4 @@ Icon
 5. ¿Cuál es la función de la etiqueta anchor <a> en el ejemplo anterior?
 
 Icon
-Para proporcionar un hipervínculo a la URL definida en el atributo href-->
+Para proporcionar un hipervínculo a la URL definida en el atributo href
