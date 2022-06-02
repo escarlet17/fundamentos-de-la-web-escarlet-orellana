@@ -43,9 +43,9 @@ los elemntos de esta clase:
 --"\table.html"--
 
 ¿QUE ES UNA IMAGEN?
-
+- es una etiqueta que nos permite colocar una imagen o fotografia. 
 --"\imagen.html"--
 
 ¿QUE ES UN VIDEO?
-
---
+- es una etiqueta que nos permite colocar enlaceses de video.
+--"videos.html"--
