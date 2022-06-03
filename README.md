@@ -6,3 +6,71 @@ R=la internet es una red de computadoras que estan conectadas y pueden comunicar
 ¿Que es una solisitud y una respuesta?
 R=las solisitudes son las que hace el cliente a un servidor (es una acion que quiere que realize la computadora).
 las respuestas son las respueatas a una solicitud a un cliente osea a una accion.
+
+
+Este es un cambio.
+
+clase 02/06/22
+los elemntos de esta clase:
+- elementos de texto
+- listas y tablas
+- imagenes y videos
+
+¿QUE ES UN ENCABEZADO?
+- un encabezado es una etiqueta que se utilizan para titulos, textos y subtitulos de la pagina.
+- parafos= es donde pudes colocar informacion.
+---"\encabezado.html"---
+
+<a href="elementos-de-texto\encabezado.html">encabezados</a>
+
+¿QUE ES UN VINCULO?
+-son etiquetas de anclage, que se utiliza para navegar en otra pagina.
+--"\VINCULOS.HTML"--
+
+¿QUE ES EL EMPHASIS Y STRONG?
+- EL STRONG: resalta la letra en negrita
+- EMPHASIS: la hace emphasis y la hace cusiva 
+--"EMPHASIS Y STRONG.HTML"--
+
+¿QUE ES LA SINTAXIS?
+- que es detro de una etiqueta puedo crear muchas etiquetas.
+
+¿que es una lista y tablas?
+- lista: ordena, lo que tenemos que hacer entre las etiquetas.
+- lista con nueros: enumera la lista.
+--"\lista.html"--
+
+- tablas: cumple el comcepto de un orden estructurado de columnas y filas.
+
+--"\table.html"--
+
+¿QUE ES UNA IMAGEN?
+- es una etiqueta que nos permite colocar una imagen o fotografia. 
+--"\imagen.html"--
+
+¿QUE ES UN VIDEO?
+- es una etiqueta que nos permite colocar enlaceses de video.
+--"videos.html"--
+
+QUIZ "ELEMENTAL"
+
+1. ¿Cuál es el lenguaje de marcado principal para crear páginas web y otra información que se puede mostrar en un navegador web?
+
+Icon
+HTML
+2. El texto entre <body> y </body> describe la parte visible de la página web. ¿Verdadero o falso?
+
+Icon
+Verdadero
+3. En el ejemplo de código anterior, ¿Qué etiqueta es el padre de los elementos de la lista <li>?
+
+Icon
+<ul>
+4. En el ejemplo de código anterior, ¿qué etiqueta es el padre de la etiqueta de anclaje <a>?
+
+Icon
+<p>
+5. ¿Cuál es la función de la etiqueta anchor <a> en el ejemplo anterior?
+
+Icon
+Para proporcionar un hipervínculo a la URL definida en el atributo href
