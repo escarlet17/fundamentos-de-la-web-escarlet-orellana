@@ -108,3 +108,6 @@ FORMULARIOS:
 - <a href="formularios\AREA-TEXTO.HTML">area de texto</a>
 - <a href="formularios\SELECIONAR.HTML">selecionar</a>
 - <a href="formularios\UN-FORMULARIO.HTML">formulario comun</a>
+
+realizar la actividad de formuolarios:
+- <a href="foremulario-de-registro.html">actividad</a>
