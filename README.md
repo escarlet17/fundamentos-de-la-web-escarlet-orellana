@@ -98,13 +98,13 @@ y:
 FORMULARIOS:
 - es una sección de un documento que contiene contenido normal, código, elementos especiales llamados controles (casillas de verificación (checkboxes), radiobotones (radio buttons), menúes, etc.), y rótulos (labels) en esos controles.
 
-<a href="formularios\CASILLAS.HTML">entradas comun</a>
-<a href="formularios\ENTREDAS-NUMERICAS.HTML">entradas numerica</a>
-<a href="formularios\CONTRASAEÑAS.HTML">contraseña</a>
-<a href="formularios\FECHA.HTML">fecha</a>
-<a href="formularios\COLOR.HTML">color</a>
-<a href="formularios\RADIO.HTML">radio</a>
-<a href="formularios\CASILLAS.HTML">casilla de verificacion</a>
-<a href="formularios\AREA-TEXTO.HTML">area de texto</a>
-<a href="formularios\SELECIONAR.HTML">selecionar</a>
-<a href="formularios\UN-FORMULARIO.HTML">formulario comun</a>
+- <a href="formularios\CASILLAS.HTML">entradas comun</a>
+- <a href="formularios\ENTREDAS-NUMERICAS.HTML">entradas numerica</a>
+- <a href="formularios\CONTRASAEÑAS.HTML">contraseña</a>
+- <a href="formularios\FECHA.HTML">fecha</a>
+- <a href="formularios\COLOR.HTML">color</a>
+- <a href="formularios\RADIO.HTML">radio</a>
+- <a href="formularios\CASILLAS.HTML">casilla de verificacion</a>
+- <a href="formularios\AREA-TEXTO.HTML">area de texto</a>
+- <a href="formularios\SELECIONAR.HTML">selecionar</a>
+- <a href="formularios\UN-FORMULARIO.HTML">formulario comun</a>
