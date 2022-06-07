@@ -75,7 +75,9 @@ Icon
 Icon
 Para proporcionar un hipervínculo a la URL definida en el atributo href
 
-PSC
+
+calse del 07/06/2022
+
 <a href="fundamentos-de-la-web-escarlet-orellana\psc.html">psc</a></a>
 
 Del HTML anterior puedes inferir:
