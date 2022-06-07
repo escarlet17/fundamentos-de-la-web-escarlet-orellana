@@ -76,7 +76,7 @@ Icon
 Para proporcionar un hipervínculo a la URL definida en el atributo href
 
 PSC
-<a href="C:\proyectos\fundamentos-de-la-web-escarlet-orellana\psc.html">psc</a></a>
+<a href="fundamentos-de-la-web-escarlet-orellana\psc.html">psc</a></a>
 
 Del HTML anterior puedes inferir:
 
@@ -94,3 +94,17 @@ y:
 - p tiene un contenido (texto): "Ahora, una etiqueta de párrafo"
 - h1 y p son hermanos
 - head y body son hermanos
+
+FORMULARIOS:
+- es una sección de un documento que contiene contenido normal, código, elementos especiales llamados controles (casillas de verificación (checkboxes), radiobotones (radio buttons), menúes, etc.), y rótulos (labels) en esos controles.
+
+<a href="formularios\CASILLAS.HTML">entradas comun</a>
+<a href="formularios\ENTREDAS-NUMERICAS.HTML">entradas numerica</a>
+<a href="formularios\CONTRASAEÑAS.HTML">contraseña</a>
+<a href="formularios\FECHA.HTML">fecha</a>
+<a href="formularios\COLOR.HTML">color</a>
+<a href="formularios\RADIO.HTML">radio</a>
+<a href="formularios\CASILLAS.HTML">casilla de verificacion</a>
+<a href="formularios\AREA-TEXTO.HTML">area de texto</a>
+<a href="formularios\SELECIONAR.HTML">selecionar</a>
+<a href="formularios\UN-FORMULARIO.HTML">formulario comun</a>
