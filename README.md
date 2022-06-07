@@ -76,7 +76,8 @@ Icon
 Para proporcionar un hipervínculo a la URL definida en el atributo href
 
 PSC
-<a href="C:\proyectos\fundamentos-de-la-web-escarlet-orellana\psc.html">
+<a href="C:\proyectos\fundamentos-de-la-web-escarlet-orellana\psc.html">psc</a></a>
+
 Del HTML anterior puedes inferir:
 
 - html es el elemento raíz
