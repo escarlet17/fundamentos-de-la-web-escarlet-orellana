@@ -113,3 +113,6 @@ FORMULARIOS:
 
 realizar la actividad de formuolarios:
 - <a href="foremulario-de-registro.html">actividad</a>
+
+CLASE 14/06/22
+CSS nos permite hacer el diseño de la pagina web.
