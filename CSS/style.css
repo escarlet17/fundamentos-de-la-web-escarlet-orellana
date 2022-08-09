@@ -7,4 +7,14 @@ h1 {
     color: rebeccapurple;
     font-size: 50px;
 }
-
+.container {
+    width: 720px;
+    height: 250px;
+    background-color: silver;
+}
+.col {
+    width: 220px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    display: inline-block;
+}
