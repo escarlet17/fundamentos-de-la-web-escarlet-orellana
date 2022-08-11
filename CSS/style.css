@@ -18,3 +18,10 @@ h1 {
     background-color: blanchedalmond;
     display: inline-block;
 }
+h1, h2 {
+    display: inline;
+    background-color: cyan;
+}
+label, input {
+    display: block;
+}

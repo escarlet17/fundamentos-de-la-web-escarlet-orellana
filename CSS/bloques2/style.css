@@ -14,10 +14,10 @@
     height: 300px;
     width: 200px;
     background-color: blue;
-    margin: 2%;
+    margin: 1%;
     display: inline-block;
-    margin-top: 20px;
-    display: flex;
+    margin-top: 1px;
+    
 }
 .main {
     height: 400px;
