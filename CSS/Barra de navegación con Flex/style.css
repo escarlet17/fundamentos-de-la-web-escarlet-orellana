@@ -74,3 +74,11 @@ button {
 button:hover {
     background-color: black;
 }
+img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    text-align: right;
+    padding: 55px;
+}
