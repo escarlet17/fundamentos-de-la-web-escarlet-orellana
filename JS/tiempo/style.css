@@ -1,110 +1,93 @@
-* {
+*{
     margin: 0;
     padding: 0;
 }
-@font-face {
-    font-family: 'ppp';
-    src: url(comic_sans_ms/comic.ttf);
+html{
+    box-sizing: border-box;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 1.4rem;
 }
-
-body{
-    background-color: white;
-    font-family: 'ppp';
-    
+.navbar-content{
+    background-color: #9fc5f8;
+    color: white; 
 }
-.top {
-    background-color: #B4CDE6;
-}
-
-.nav {
-    width: 1080px;
+.navbar{
+    height: 50px;
+    width: 800px;
     margin: 0 auto;
-    color: #ffffff;
-    height: 80px;
     display: flex;
-    align-items: center;
     justify-content: space-between;
-}
-
-.nav-links {
-    width: 30%;
-    display: flex;
     align-items: center;
+}
+.cities{
+    display: flex;
     list-style-type: none;
-    justify-content: space-around;
 }
-
-.nav a {
-    color: #ffffff;
-    text-decoration: none;
+.cities > li {
+    padding: 0px 30px;
 }
-
-.nav-title {
-    margin-left: 20px;
+.cities-link{
+    color: white;
+    text-decoration:none;
 }
-.nav2 {
-    width: 1080px;
+.header{
+    width: 800px;
+    margin: 0  auto;
+    border-bottom: 5px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.select{
+    width: 50px;
+    height: 30px;
+}
+.main{
+    width: 800px;
+    margin: 0  auto;
+    display: flex;
+}
+.wth-image{
+    width: 100px;
+    border-radius: 50%;
+}
+.card{
+    flex: 1;
+    text-align: center;
+}
+.card-item{
+    list-style-type: none;
+    margin: 30px 10px;
+    padding: 20px;
+    background-color: #eeeeee;
+}
+.temperatures{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 1px;
+}
+.temp0{
+    color: #d0312e;
+}
+.temp1{
+    color: #307be4;
+}
+.message-cookie{
+    width: 700px;
     margin: 0 auto;
-    color: black;
-    height: 80px;
+    border: 2px solid black;
+    padding: 30px;
+    font-size: 0.9rem;
     display: flex;
     align-items: center;
-    justify-content: space-between;
 }
-
-.nav-links2 {
-    width: 20%;
-    display: flex;
-    align-items: center;
-    list-style-type: none;
-    justify-content: space-around;
+.btn{
+    width: 70px;
+    height: 30px;
+    border: 2px solid black;
+    box-shadow: 3px 3px black;
+    background-color: #9fc5f8;
 }
-
-.nav-title2 {
-    margin-left: 20px;
+.cookie-img{
+    margin-right: 20px;
 }
-.row {
-    width: 100%;
-    height: 500px;
-    margin-bottom: 5%;
-    display: flex;
-    justify-content: center;
-}
-.tiempo {
-    background-color: #D8D8D8;
-    margin: 1%;
-    border-radius: 5px;
-    
-}
-.dia {
-    text-align: center;
-    margin: 2%;
-}
-
-.tiempo img {
-    border-radius:180px;
-    width: 80%;
-    text-align: center;
-    margin: 10%;
-}
-
-.tiempo p{
-    text-align: center;
-    font-weight: bolder;
-    margin: 5%;
-}
-
-table {
-    text-align: center;
-    margin: 10%;
-    
-}
-.tiempo-1{
-    color: red;
-    padding-left: 100%;
-}
-.tiempo-2{
-    color: blue;
-    padding-left: 200%;
-}
-

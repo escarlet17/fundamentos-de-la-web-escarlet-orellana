@@ -1,21 +1,24 @@
-const botonAceptarCookies = document.getElementById('btn-aceptar-cookies');
-const avisoCookies = document.getElementById('aviso-cookies');
-const fondoAvisoCookies = document.getElementById('fondo-aviso-cookies');
+let elementoCookie = document.getElementById("message-cookie")
+let tempElements = document.querySelectorAll("#temp")
 
-dataLayer = [];
+let temperaturesC = [24,18,27,19,21,16,26,21]
+let temperaturesF = [75,65,80,66,69,61,78,70]
 
-if(!localStorage.getItem('cookies-aceptadas')){
-	avisoCookies.classList.add('activo');
-	fondoAvisoCookies.classList.add('activo');
-} else {
-	dataLayer.push({'event': 'cookies-aceptadas'});
+let alerts =function () {
+    let alerta = "Loading weather report..."
+    alert(alerta)
 }
-
-botonAceptarCookies.addEventListener('click', () => {
-	avisoCookies.classList.remove('activo');
-	fondoAvisoCookies.classList.remove('activo');
-
-	localStorage.setItem('cookies-aceptadas', true);
-
-	dataLayer.push({'event': 'cookies-aceptadas'});
-});
+let removes= function () {
+    elementoCookie.remove()
+}
+let changeTemp = function (event) {
+    if (event.value==="celcius") {
+        for (let i = 0; i < temperaturesC.length; i++) {
+            tempElements[i].innerText =`${temperaturesC[i]}°`
+        }
+    }else if(event.value==="fahrenheit"){
+        for (let i = 0; i < temperaturesF.length; i++) {
+            tempElements[i].innerText =`${temperaturesF[i]}°`
+        }
+    }
+}
